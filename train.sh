@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TREINO="./corpora/train"
-PROG="./scripts"
-MODEL="./models"
+TREINO="/content/Perplexity/corpora/train"
+PROG="/content/Perplexity/scripts"
+MODEL="/content/Perplexity/models"
 
 Target=$1
 
