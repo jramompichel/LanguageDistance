@@ -1,4 +1,5 @@
-# Language Distance with Perplexity
+# Language distance with perplexity to use in Google Colab
+https://colab.research.google.com/drive/1yVvklJfWGozjkSryDm2vW-aR80zDts-P#scrollTo=dk7Pc5D4YicZ
 
 ## Authors:
 * Pablo Gamallo, CiTIUS, USC
