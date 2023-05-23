@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TEST="/content/Perplexity/corpora/test"
-PROG="/content/Perplexity/scripts"
-MODEL="/content/Perplexity/models"
+TEST="/content/LanguageDistance/corpora/test"
+PROG="/content/LanguageDistance/scripts"
+MODEL="/content/LanguageDistance/models"
 
 Train=$1
 Target=$2
